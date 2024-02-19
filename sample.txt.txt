@@ -2,4 +2,8 @@ First Git Commit.
 
 我有一段字
 
+<<<<<<< HEAD
 Tutorial commit text.
+=======
+Tutorial2. 喵
+>>>>>>> f673e255e5caa5e032dbe5c8c30c67356f7812f3
