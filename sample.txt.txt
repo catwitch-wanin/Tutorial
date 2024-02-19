@@ -2,4 +2,4 @@ First Git Commit.
 
 我有一段字
 
-Tutorial commit.
+Tutorial2 commit text.
